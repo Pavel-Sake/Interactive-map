@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Interactive-map/static/css/main.5ff4aab3.chunk.css",
+    "main.js": "/Interactive-map/static/js/main.29633e84.chunk.js",
+    "main.js.map": "/Interactive-map/static/js/main.29633e84.chunk.js.map",
+    "runtime-main.js": "/Interactive-map/static/js/runtime-main.54b648df.js",
+    "runtime-main.js.map": "/Interactive-map/static/js/runtime-main.54b648df.js.map",
+    "static/js/2.ddbf45a4.chunk.js": "/Interactive-map/static/js/2.ddbf45a4.chunk.js",
+    "static/js/2.ddbf45a4.chunk.js.map": "/Interactive-map/static/js/2.ddbf45a4.chunk.js.map",
+    "static/js/3.a5643875.chunk.js": "/Interactive-map/static/js/3.a5643875.chunk.js",
+    "static/js/3.a5643875.chunk.js.map": "/Interactive-map/static/js/3.a5643875.chunk.js.map",
+    "index.html": "/Interactive-map/index.html",
+    "static/css/main.5ff4aab3.chunk.css.map": "/Interactive-map/static/css/main.5ff4aab3.chunk.css.map",
+    "static/js/2.ddbf45a4.chunk.js.LICENSE.txt": "/Interactive-map/static/js/2.ddbf45a4.chunk.js.LICENSE.txt",
+    "static/media/basket.0103f1e9.svg": "/Interactive-map/static/media/basket.0103f1e9.svg",
+    "static/media/down-arrow.62030d77.svg": "/Interactive-map/static/media/down-arrow.62030d77.svg",
+    "static/media/marker.733b994e.svg": "/Interactive-map/static/media/marker.733b994e.svg",
+    "static/media/SearchInput.css": "/Interactive-map/static/media/search.dd23ce84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b648df.js",
+    "static/js/2.ddbf45a4.chunk.js",
+    "static/css/main.5ff4aab3.chunk.css",
+    "static/js/main.29633e84.chunk.js"
+  ]
+}
