@@ -1,0 +1,35 @@
+.modal-window__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.modal-window__cell {
+  margin-bottom: 10px;
+}
+
+.modal-window__filter {
+  list-style-type: none;
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+
+.services {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  list-style-type: none;
+}
+
+.services-item {
+  margin: 5px 5px;
+  padding: 5px;
+
+  border-radius: 8px;
+  background: blue;
+  color: white;
+
+  font-size: 12px;
+}

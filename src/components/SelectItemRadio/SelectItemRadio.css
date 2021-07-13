@@ -1,0 +1,16 @@
+.select-search__element {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  padding: 5px 10px;
+}
+
+.select-search__input{
+  margin-right: 10px;
+}
+
+.select-search__element:hover {
+  background: #e7e7e7;
+}

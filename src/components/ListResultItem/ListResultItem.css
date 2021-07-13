@@ -1,0 +1,28 @@
+.list-item {
+  width: 100%;
+  margin: 5px 0;
+}
+
+.list-item__button {
+  width: 100%;
+  padding: 10px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-right: 5px;
+
+  border-radius: 8px;
+  border: 1px solid gray;
+  font-weight: 800;
+  background: white;
+}
+
+.list-item__button:hover {
+  cursor: pointer;
+
+  color: white;
+  background: #0038ff;
+}

@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+.main-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.ReactModal__Overlay {
+  z-index: 1100;
+}
+
+.main-screen {
+  max-width: 75rem;
+
+  border: 1px solid lightgrey;
+
+  background: white;
+}
+
+.search-result {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.cell-active {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+
+  width: 100%;
+  height: 4rem;
+
+  transition: 0.8ms background-color;
+}
+
+.cell-active:hover {
+  cursor: pointer;
+
+  background: #dc9e12;
+}
+
+.button-active {
+  padding: 17px 12px;
+
+  border: none;
+
+  font-size: 1.2rem;
+  background: none;
+}
+
+.result-map-selected-filter {
+  position: relative;
+
+  width: 75%;
+  height: 40rem;
+}

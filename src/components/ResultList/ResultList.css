@@ -1,0 +1,14 @@
+.list-result-block {
+  width: 25%;
+  height: 100%;
+  padding-top: 5px;
+
+  overflow: auto;
+}
+
+.list-result {
+  margin: 5px;
+  padding: 0;
+
+  list-style-type: none;
+}

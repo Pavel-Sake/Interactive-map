@@ -1,0 +1,25 @@
+.filter-block {
+  position: relative;
+
+  width: 100%;
+  padding: 10px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  background: #ffc137;
+}
+
+.cell {
+  position: relative;
+
+  margin: 5px;
+
+  font-size: 1.2rem;
+}
+
+.cell--empty-title {
+  align-self: flex-end;
+}

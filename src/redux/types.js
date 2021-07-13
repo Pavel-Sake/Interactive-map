@@ -1,0 +1,13 @@
+export const CHANGE_LEVEL = 'CHANGE_LEVEL';
+
+export const CHANGE_CITY = 'CHANGE_CITY';
+
+export const ADD_CHANGE_ACTIVITY = 'ADD_CHANGE_ACTIVITY';
+export const DELETE_ACTIVITY = 'DELETE_ACTIVITY';
+
+export const ADD_CHANGE_TAG = 'ADD_CHANGE_TAG';
+export const DELETE_TAG = 'DELETE_TAG';
+
+export const DELETE_FILTERS = 'DELETE_FILTERS';
+
+export const FIND_BY_TEXT = 'FIND_BY_TEXT';
